@@ -1,0 +1,5 @@
+{
+  "name": "Password Generator",
+  "description": "A simple and modern password generator web app.",
+  "requestFramePermissions": []
+}
